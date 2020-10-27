@@ -5,7 +5,7 @@ time: 2020-8-14
 env: Python 3.6 pycharm
 socket and Process exercise
 """
-
+#fangan2
 from socket import *
 from multiprocessing import Process
 
